@@ -3,14 +3,11 @@
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mc-ivan/computer-vision/blob/main/lab1/notebook/Practica1_Grupo3.ipynb)
 
 ## Grupo 3
-
-| Integrante |
-|------------|
-| Ivan Mamani|
-| Yesica Luna |
-| Elvis Miranda |
-| Karem Huacota |
-| Karen Torrico |
+- Ivan Mamani
+- Yesica Luna
+- Elvis Miranda
+- Karem Huacota
+- Karen Torrico
 
 Este laboratorio implementa el **conteo de objetos en movimiento usando visión computacional clásica**, sin utilizar Deep Learning.  
 Se enfoca en la **detección y conteo de atletas cruzando la línea de meta** y **vacas cruzando un río**, usando técnicas de procesamiento de imágenes y análisis de contornos.
@@ -28,7 +25,7 @@ Se enfoca en la **detección y conteo de atletas cruzando la línea de meta** y 
 
 - `lab1/sources/` : Videos y capturas del laboratorio  
 - `lab1/notebook/` : Notebook e informe de laboratorio con análisis y resultados  
-- `Colab` : [Abrir en Google Colab](https://colab.research.google.com/tu-link-al-colab)
+- `Colab` : [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mc-ivan/computer-vision/blob/main/lab1/notebook/Practica1_Grupo3.ipynb)
 
 
 ## Videos y resultados
@@ -71,4 +68,4 @@ Se enfoca en la **detección y conteo de atletas cruzando la línea de meta** y 
 **Notebook**: [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mc-ivan/computer-vision/blob/main/lab1/notebook/Practica1_Grupo3.ipynb)
 
 
-**Informe de Laboratorio:** `/lab1/notebook/Laboratorio1-Informe-Grupo3.pdf`
+**Informe de Laboratorio:** [Informe](/lab1/notebook/Laboratorio1-Informe-Grupo3.pdf)
